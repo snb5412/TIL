@@ -47,5 +47,14 @@
 ## 플래너 / 협업 도구
 
 - Trello
+
 - Slack
+
 - Notion
+
+  
+
+## 알고리즘
+
+- 파이썬 순차적 메모리 구조 보여주는 사이트
+  - <http://www.pythontutor.com/>

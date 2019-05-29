@@ -1,4 +1,4 @@
-# * WEB
+## WEB
 
 - Hyper Text  : 문서 하나하나에 link 를 걸어 접근할 수있는 문서
 - HTTP (Hyper Text Tranfer Protocol) : Hyper Text 를 주고 받기 위한 프로토콜
@@ -6,17 +6,17 @@
 
 
 
-# * Position
+## Position
 
 <hr />
 
-### static
+## 1. static
 
 - position 이 없을 때 Default 값
 
   
 
-### relative
+## 2. relative
 
 - position 적용 전 ( static 일 때 ) 기준으로 움직임
 
@@ -24,7 +24,7 @@
 
   
 
-### absolute
+## 3. absolute
 
 - position 이 static 이 아닌 부모를 찾아서 그 부모를 기준으로 움직임
 
@@ -34,7 +34,7 @@
 
   
 
-### fixed
+## 4. fixed
 
 - 붕 뜬다. 브라우저상에서 보여지는 위치가 고정됨
 

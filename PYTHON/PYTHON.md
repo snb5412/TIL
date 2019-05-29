@@ -1,4 +1,4 @@
-# 환경 설치
+## 환경 설치
 
 1.  pip install bs4 ( Beautiful Soup )
 
@@ -6,7 +6,7 @@
 
 ****
 
-# import os
+## import os
 
 1. os.**chdir('폴더 주소')** : 작업하고 있는 위치 변경
 
@@ -20,7 +20,7 @@
 
 <hr/>
 
-# import csv
+## import csv
 
 1. 쓰기
 
@@ -37,7 +37,7 @@
 
 <hr/>
 
-# Scraping
+## Scraping
 
 1. req = requests.get(url, headers).text
 
