@@ -58,3 +58,12 @@
 
 - 파이썬 순차적 메모리 구조 보여주는 사이트
   - <http://www.pythontutor.com/>
+
+
+
+## Google Extension
+
+- Wappalyzer : 웹 사이트가 어떤 걸로 만들어졌는지 알려줌
+- uBlock Origin
+- Web Developer
+- JSON Formatter

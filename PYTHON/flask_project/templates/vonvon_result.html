@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+        crossorigin="anonymous">
+</head>
+<body>
+    <div class="container mx-auto" style="text-align: center;">
+            <h1>{{user_name}} 님의 결과는....</h1>
+            <img src="https://lh3.googleusercontent.com/iXUuPRSU1-rgipnyHX6C-qSBfsLNUS2IqTPfkDjPz4dTBQJ6xe7EXLszzHbgznDiZ6EANJYCliZW-PjRZKAsgEHUmy1yLC1X5A=s640-l65"><br>
+            {% for attr in result%}
+            <h2>{{attr}}</h2>
+            {% endfor %}
+    </div>
+</body>
+</html>
